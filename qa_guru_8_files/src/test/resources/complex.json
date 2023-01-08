@@ -1,0 +1,12 @@
+{
+  "nameOfApartmentComplex": "Sezim qala",
+  "maxNumberOfFloor": "16",
+  "types": ["office", "apartment", "parking"],
+  "smartTechnologyHas": true,
+
+  "apartments": {
+      "apartmentsID": 123,
+      "square": 40,
+      "floor": 2
+    }
+}
